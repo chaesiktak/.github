@@ -32,3 +32,11 @@
 | **MyInfo** | 사용자의 프로필 정보 및 계정 설정을 관리할 수 있는 화면 | <img src="https://github.com/woojin-devv/chaesiktak_screen/blob/main/Myinfo.png?raw=true" height="200"> |
 
 </details>
+
+</br>
+
+## Team
+|서해근|최우진|나향지|윤준석|홍서현|류창훈|백서이|강다영|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<a href="https://github.com/Harryseo99"><img src="https://avatars.githubusercontent.com/Harryseo99" width="250"></a>|<a href="https://github.com/woojin-devv"><img src="https://avatars.githubusercontent.com/woojin-devv" width="250"></a>|<a href="https://github.com/hyonjji"><img src="https://avatars.githubusercontent.com/hyonjji" width="250"></a>|<a href="https://github.com/junseok0304"><img src="https://avatars.githubusercontent.com/junseok0304" width="250">|<a href="https://github.com/xyz987164"><img src="https://avatars.githubusercontent.com/xyz987164" width="250"></a>|<a href="https://github.com/Ryuchanghoon"><img src="https://avatars.githubusercontent.com/Ryuchanghoon" width="250">|<a href="https://github.com/baik2"><img src="https://avatars.githubusercontent.com/baik2" width="250">|<a href="https://github.com/rkdekdud"><img src="https://avatars.githubusercontent.com/rkdekdud" width="250">|
+|PM|App|App|Server|Server|AI|AI|AI|
