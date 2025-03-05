@@ -39,4 +39,4 @@
 |서해근|최우진|나향지|윤준석|홍서현|류창훈|백서이|강다영|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<a href="https://github.com/Harryseo99"><img src="https://avatars.githubusercontent.com/Harryseo99" width="250"></a>|<a href="https://github.com/woojin-devv"><img src="https://avatars.githubusercontent.com/woojin-devv" width="250"></a>|<a href="https://github.com/hyonjji"><img src="https://avatars.githubusercontent.com/hyonjji" width="250"></a>|<a href="https://github.com/junseok0304"><img src="https://avatars.githubusercontent.com/junseok0304" width="250">|<a href="https://github.com/xyz987164"><img src="https://avatars.githubusercontent.com/xyz987164" width="250"></a>|<a href="https://github.com/Ryuchanghoon"><img src="https://avatars.githubusercontent.com/Ryuchanghoon" width="250">|<a href="https://github.com/baik2"><img src="https://avatars.githubusercontent.com/baik2" width="250">|<a href="https://github.com/rkdekdud"><img src="https://avatars.githubusercontent.com/rkdekdud" width="250">|
-|PM|App|App|Backend|Backend|AI|AI|AI|
+|PM|Android|Android|Backend|Backend|AI|AI|AI|
