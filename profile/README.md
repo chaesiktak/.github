@@ -6,6 +6,10 @@
   <img src="https://github.com/user-attachments/assets/ac91714d-3ea1-4f90-b970-ba7efd413507" alt="image" />
 </p>
 
+### Tech Stack & Architecture Diagram
+![image](https://github.com/user-attachments/assets/2c2e68a6-e0f0-4f00-ad47-7c999e4883bd)
+
+
 ### Onboarding Flow
 <details>
   <summary><strong>Click to expand/collapse</strong></summary>
