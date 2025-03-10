@@ -7,7 +7,8 @@
 </p>
 
 ### Tech Stack & Architecture Diagram
-![image](https://github.com/user-attachments/assets/2c2e68a6-e0f0-4f00-ad47-7c999e4883bd)
+<img src="https://github.com/user-attachments/assets/2c2e68a6-e0f0-4f00-ad47-7c999e4883bd" height="500px">
+
 
 
 ### Onboarding Flow
