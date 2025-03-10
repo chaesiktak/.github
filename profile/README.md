@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/1151ba20-a294-425f-951f-99feccb579fc" width="30%" />
 </p>
 
+</br>
+
 ## "건강한 채식의 시작."
 
 채식탁은 채식을 시작하고 싶지만 어려움을 겪는 사람들을 위해,</br>
