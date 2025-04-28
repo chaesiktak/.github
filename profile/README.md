@@ -49,7 +49,7 @@ LLM 기능을 활용하여 채식 식단으로서의 균형이 잘 갖추어져 
 |:---|:---|
 |Android|`Kotlin`|
 |Server|`Spring`  `EC2`  `DuckDNS`|
-|AI-Image|`Python`  `Yolov7`  `OpenCV`  `Flask`  `Numpy`  `VM Instance`|
+|AI-Image|`Python`  `Yolov7`  `OpenCV`  `Flask`  `Numpy`  `VM Instance` `ONNX`|
 |AI-LLM|`Python`  `Pandas`  `OpenAI`  `Flask`  `VM Instance`|
 |Etc|`GitHub`  `Notion`  `Figma`|
 
